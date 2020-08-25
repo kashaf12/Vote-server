@@ -15,7 +15,8 @@
 	},
 	"scripts": {
 		"start": "nodemon index.js",
-		"seed": "node seed.js"
+		"seed": "node seed.js",
+		"build": "node index.js"
 	},
 	"devDependencies": {
 		"nodemon": "^1.17.3"
